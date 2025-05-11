@@ -1,0 +1,4 @@
+valkey used for in memory db, instead of redis
+bullmq as my enqueu sertvice,
+for qdrant db my dashonar d link 
+http://localhost:6333/dashboard#/collections/langchainjs-testing/graph
